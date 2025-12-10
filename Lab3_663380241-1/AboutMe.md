@@ -1,1 +1,3 @@
-“Author: Suttipad Rodhom”
+"Author: Suttipad Rodhom"
+"Section: 1"
+"I am responsible for: Bubble Sort"
