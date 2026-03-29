@@ -1,0 +1,5 @@
+"Author: Suttipad Rodhom"
+"Section: 1"
+"I am responsible for: Bubble Sort"
+"Team: LungMan&FRIENDS"
+"Semester 2/2568"
